@@ -1,7 +1,11 @@
-Nikon AF-P 70-300
-Nikon AF-S 70-300 VR
-Nikon 55-300 VR
-Tamron SP 90 Macro Nikon
-Sigma 105 Macro Nikon
-Nikon 105 VR Micro
-Nikon 40mm Micro
+# Format: Suchbegriff | Vinted-Kategorie-ID | Titel-Filter (Regex, ohne Beachtung der Schreibweise)
+# Kategorie 3061 = Elektronik > Kameras & Zubehör > Objektive
+# Phase 1: Tele (Fokus)
+Nikon AF-P 70-300 | 3061 | 70.?300
+Nikon AF-S 70-300 VR | 3061 | 70.?300
+Nikon 55-300 VR | 3061 | 55.?300
+# Phase 2: Makro
+Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
+Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105
+Nikon 105 VR Micro | 3061 | (?<![\d–-])105
+Nikon 40mm Micro | 3061 | (?<![\d–-])40\s?mm

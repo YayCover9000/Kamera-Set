@@ -15,8 +15,8 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 | Prio | Kategorie | Konkret gesucht | Muss passen zu | Max. Preis | Status |
 |---|---|---|---|---|---|
 | 1 | Teleobjektiv | AF-P DX 70–300 VR oder AF-S 70–300 VR (Alt.: 55–300 VR) | Nikon F, DX | _offen_ | offen |
-| 2 | Makro 1:1 (Insekten/Natur) | Tamron SP 90 VC USD / Sigma 105 / Nikon 105 VR | Nikon F, AF an D7500 | _offen_ | offen |
-| 3 | Makro kompakt | Nikon AF-S DX Micro 40 mm f/2.8G | Nikon F, DX | _offen_ | offen |
+| 2 | Makro 1:1 (Insekten/Natur) | Tamron SP 90 VC USD / Sigma 105 / Nikon 105 VR | Nikon F, AF an D7500 | 239 € bezahlt | gekauft (Tamron SP 90 VC USD), Eingang offen |
+| 3 | Makro kompakt | Nikon AF-S DX Micro 40 mm f/2.8G | Nikon F, DX | _offen_ | entfällt (Makro mit Tamron abgedeckt) |
 | | Stativ / Kopf | | | | offen |
 | | Blitz / Licht | | | | offen |
 | | Akkus / Ladegeräte | | | | offen |

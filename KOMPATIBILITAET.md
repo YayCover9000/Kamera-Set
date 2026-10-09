@@ -3,9 +3,10 @@
 Wird gefüllt, sobald das Inventar steht.
 
 ## Matrix (Objektiv × Kamera)
-| Objektiv \ Kamera | | | |
-|---|---|---|---|
-| | | | |
+| Objektiv \ Kamera | Nikon D7500 |
+|---|---|
+| AF-S DX 18–140 mm VR | ✅ nativ (AF-S, VR) |
+| Tamron SP 90 mm VC USD (F004, Nikon F) | ✅ nativ (USD-AF, VC; Crop 1,5 → ≈135 mm KB) |
 
 Legende: ✅ nativ · 🔁 mit Adapter (AF/Stabi?) · ⚠️ eingeschränkt (Crop, nur manuell) · ❌ nicht nutzbar
 

@@ -16,4 +16,7 @@
 ## Sonstiges Zubehör
 | Teil | Details | Zustand | Behalten? |
 |---|---|---|---|
-| | | | |
+| Zoom Audiorecorder (H4 oder H5, genaues Modell offen) | ca. 280 g ohne Akkus, 1/4"-Gewinde unten | _offen_ | ja |
+| USB-C LED-Licht für Blitzschuh | Modell offen, Gewicht offen | _offen_ | ja |
+| Externer Blitz | Modell offen (SB-700/SB-500/Drittanbieter?) | _offen_ | ja |
+| Anker Powerbank 26k | ca. 26.800 mAh, ca. 0,5 kg | _offen_ | ja |

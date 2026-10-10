@@ -4,7 +4,17 @@
 Nikon AF-P 70-300 | 3061 | 70.?300
 Nikon AF-S 70-300 VR | 3061 | 70.?300
 Nikon 55-300 VR | 3061 | 55.?300
-# Phase 2: Makro – erledigt (Tamron SP 90 VC USD gekauft am 09.10.2026), Suchen deaktiviert
+# Phase 2: Weitwinkel (Landschaft, Priorität 2)
+Nikon AF-P DX 10-20 | 3061 | 10.?20
+Sigma 10-20 Nikon | 3061 | 10.?20
+Tokina 11-16 Nikon | 3061 | 11.?16
+Tamron 10-24 Nikon | 3061 | 10.?24
+# Phase 3: Filter (Kategorie Kameras & Zubehör 3054, Priorität 1 für Landschaft)
+Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
+Polfilter 62mm | 3054 | (pol|cpl).*62|62.*(pol|cpl)
+ND Filter 67mm | 3054 | \bND\b.*67|67.*\bND\b
+ND Filter 62mm | 3054 | \bND\b.*62|62.*\bND\b
+# Makro – erledigt (Tamron SP 90 VC USD gekauft am 09.10.2026), Suchen deaktiviert
 # Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
 # Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105
 # Nikon 105 VR Micro | 3061 | (?<![\d–-])105

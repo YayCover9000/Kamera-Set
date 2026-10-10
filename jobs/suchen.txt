@@ -14,6 +14,10 @@ Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
 Polfilter 62mm | 3054 | (pol|cpl).*62|62.*(pol|cpl)
 ND Filter 67mm | 3054 | \bND\b.*67|67.*\bND\b
 ND Filter 62mm | 3054 | \bND\b.*62|62.*\bND\b
+# Phase 4: Halterung/Cage für LED-Licht und Recorder (Kategorie Kameras & Zubehör 3054, Priorität 3)
+SmallRig Cage Nikon D7500 | 3054 | cage|käfig|d7500
+Kamera Cage Kaltschuh DSLR | 3054 | cage|käfig|kaltschuh|bracket
+Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
 # Makro – erledigt (Tamron SP 90 VC USD gekauft am 09.10.2026), Suchen deaktiviert
 # Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
 # Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105

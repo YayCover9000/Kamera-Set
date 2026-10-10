@@ -16,9 +16,10 @@ Richtpreise (Gebraucht, grob, vor Nutzung mit aktuellen Daten prüfen):
 | Tamron 10–24 (Nikon F) | 150 € | 190 € |
 | Polfilter 62/67 mm (zirkular, Marke) | 25 € | 40 € |
 | ND-Filter 62/67 mm (Marke, fest) | 20 € | 35 € |
+| Kamera-Cage/Halterung (D7500 oder universal, mit Kaltschuh + 1/4"-Gewinde) | 30 € | 50 € |
 
 Ausschluss (kein Treffer): Z-Mount, nur Defekt/Bastler, ohne VR/VC bei Tele (außer < 70 €), Pilz/Schleier, Verdacht auf Betrug (Zahlung außerhalb Vinted).
 Abzug: kein Foto der Modellbezeichnung, kein Funktionsbeweis AF/VR, kein Zubehör.
 Urteil: ✅ kaufen/anfragen · 🤔 verhandeln oder Fragen klären · ❌ nicht listen.
-Weitwinkel und Filter: Preise sind grobe Schätzungen (nicht geprüft). Bei Filtern Gewinde (62/67 mm) und "zirkular" beachten; Kratzer/Pilz ausschließen.
+Bei Cages prüfen: passt zur D7500 (Akkufach unten, Anschlüsse seitlich frei), Kaltschuh vorhanden, kein loses Gewinde. Weitwinkel, Filter und Cage: Preise sind grobe Schätzungen (nicht geprüft). Bei Filtern Gewinde (62/67 mm) und "zirkular" beachten; Kratzer/Pilz ausschließen.
 Richtpreise sind Schätzungen, keine geprüften Marktdaten.

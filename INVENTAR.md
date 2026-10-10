@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|---|
 | Nikon D7500 | Nikon F (mit internem AF-Motor) | DX/APS-C, 20,9 MP | _offen_ | _offen_ | | ja |
 | Revueflex 3000 SM (Analog-SLR, Film) | vermutlich M42 (Schraubgewinde), bitte prüfen | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
-| Chinon CE-3 Memotron (Analog-SLR, Film) | M42 (laut Wissen) | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
+| Chinon CE-3 Memotron (Analog-SLR, Film), mit Chinon Power Winder | M42 (laut Wissen) | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
 | Revue-Kamera, Modell unbekannt (Nummer nicht lesbar) | _offen_ | Kleinbildfilm | _offen_ | _offen_ | | _offen_ |
 | | | | | | | |
 

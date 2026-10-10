@@ -18,11 +18,18 @@ Legende: ✅ nativ · 🔁 mit Adapter (AF/Stabi?) · ⚠️ eingeschränkt (Cro
 
 ## Schuh, Strom, Zubehör: siehe [recherche/2026-10-10_schuh_und_strom.md](recherche/2026-10-10_schuh_und_strom.md)
 
+## Analog-Objektive (Stand 10.10.2026, ungeprüft)
+Alle vermutlich M42; Mount bei jedem Objektiv prüfen. Vivitar 75–240 hat Filter 67 mm (gleich wie 18–140). 28/50/55 mm auf DX ≈ 42/75/82 mm KB, 75–240 ≈ 112–360 mm KB (manuell, f/4.5, kein Stabilisator).
+
 ## Revueflex 3000 SM + Auto Revuenon 55 mm f/1.7 (Stand 10.10.2026, ungeprüft)
 - Bajonett laut Wissen: M42 (Schraubgewinde). Am Objektiv und Kameraanschluss prüfen, ob Gewinde oder Bajonett.
 - An der D7500: Nur mit **M42→Nikon-F-Adapter**. Der Adapter ohne Glas kostet Unendlich-Fokus (Nikon-F-Auflagemaß 46,5 mm gegenüber M42 45,46 mm). Mit Korrekturlinse wird Unendlich erreicht, die Bildqualität kann sinken.
 - Fokus nur manuell, Blende am Objektiv; Belichtungsmessung nur im Modus M mit Abblendmessung. Auf DX entspricht 55 mm etwa 82 mm Kleinbild (Porträt-Look).
 - Für die analoge Kamera selbst: Film, Batterie für Belichtungsmesser prüfen, Lichtdichtungen alt.
+
+## Alter Blitz Metz 30 BCT-4
+- Alte Thyristor-Blitze können hohe Triggerspannung (teils >200 V) haben und moderne Kameras schädigen. **Nicht ungeprüft auf die D7500 stecken.** Vorher mit einem Multimeter die Spannung an den Kontakten messen oder (sicherer) per Fototransistor/Slave-Auslöser benutzen. Kein TTL.
+- Für den Einstieg lieber einen modernen Nikon-Blitz (SB-500/SB-700) entfesselt per Commander.
 
 ## Nikon D7500 (Stand 09.10.2026)
 - Nikon F, DX-Sensor (Crop 1,5). FX-Objektive passen, mit Crop.

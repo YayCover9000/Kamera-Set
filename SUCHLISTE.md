@@ -20,6 +20,7 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 | – | Makro 1:1 (Insekten/Natur) | Tamron SP 90 VC USD / Sigma 105 / Nikon 105 VR | Nikon F, AF an D7500 | 239 € bezahlt | gekauft (Tamron SP 90 VC USD), Eingang offen |
 | – | Makro kompakt | Nikon AF-S DX Micro 40 mm f/2.8G | Nikon F, DX | _offen_ | entfällt (Makro mit Tamron abgedeckt) |
 | 3 | Cage / Halterung (LED-Licht, Recorder) | SmallRig D7500-Cage oder universal mit Kaltschuh + 1/4" | Stativgewinde D7500, Akkufach frei | ca. 30–50 € | Suche aktiv (Vinted), Amazon nicht erreichbar |
+| 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder USB-C-Dummy-Akku EN-EL15 (Marke, PD) | D7500, PD-Powerbank | ca. 25–60 € | Suche aktiv (Vinted), Amazon nicht erreichbar |
 | | Stativ / Kopf | | | | offen |
 | | Blitz / Licht | | | | offen |
 | | Akkus / Ladegeräte | | | | offen |

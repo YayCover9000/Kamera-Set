@@ -3,7 +3,7 @@
 Alles aus allgemeinem Wissen, **nicht** an der D7500 getestet. Gewichte sind Richtwerte. Vor Kauf Modelle und Datenblätter prüfen.
 
 ## Vorhandene Teile
-Zoom H4/H5 (Modell offen), USB-C LED-Licht, externer Blitz, Anker-Powerbank 26k. Fehlt noch: genaue Modelle.
+Zoom H5 (bestätigt), USB-C LED-Licht, externer Blitz, Anker-Powerbank 26k. Fehlt noch: genaue Modelle.
 
 ## 1. Blitzschuh-Belastung
 - Die D7500 hat **einen** Schuh. Nikon nennt kein Höchstgewicht. Faustregel: unter ca. 300–400 g; mehr belastet Schuh und Gehäuse, die Kamera kippt nach vorn.
@@ -26,5 +26,5 @@ Zoom H4/H5 (Modell offen), USB-C LED-Licht, externer Blitz, Anker-Powerbank 26k.
 5. Dummy-Akku zuletzt, nur bei echtem Bedarf (Zeitraffer/Video).
 
 ## Offene Fragen
-- Genaues Modell Zoom (H4n Pro, H4essential, H5?), Blitz, LED-Licht, Powerbank.
+- Blitz, LED-Licht, Powerbank (Modelle).
 - Soll auch Video gedreht werden?

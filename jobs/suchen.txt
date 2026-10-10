@@ -18,6 +18,9 @@ ND Filter 62mm | 3054 | \bND\b.*62|62.*\bND\b
 SmallRig Cage Nikon D7500 | 3054 | cage|käfig|d7500
 Kamera Cage Kaltschuh DSLR | 3054 | cage|käfig|kaltschuh|bracket
 Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
+# Phase 5: Dauerstrom für D7500 (Priorität 3, nur bei Bedarf: Zeitraffer/Video)
+Nikon EP-5B EH-5b | 3054 | EP.?5B|EH.?5|netzteil|dummy|attrappe
+EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
 # Makro – erledigt (Tamron SP 90 VC USD gekauft am 09.10.2026), Suchen deaktiviert
 # Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
 # Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105

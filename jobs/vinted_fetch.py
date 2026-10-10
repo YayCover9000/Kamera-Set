@@ -31,7 +31,7 @@ def main():
         q, cat, flt = [p.strip() for p in (line.split("|") + ["", ""])[:3]]
         url = f"{BASE}/catalog?order=newest_first&catalog[]={cat or 3061}&search_text={urllib.parse.quote_plus(q)}"
         print(f"## {q}")
-        time.sleep(3)
+        time.sleep(8)  # Abstand zwischen Suchen, sonst blockt Vinted (DataDome)
         h = fetch(url)
         if h is None:
             print("FEHLER: Seite nicht abrufbar (403)")

@@ -28,7 +28,7 @@ def main():
     for line in open(os.path.join(HERE, "suchen.txt"), encoding="utf-8"):
         if not line.strip() or line.startswith("#"):
             continue
-        q, cat, flt = [p.strip() for p in (line.split("|") + ["", ""])[:3]]
+        q, cat, flt = [p.strip() for p in (line.split("|", 2) + ["", ""])[:3]]
         url = f"{BASE}/catalog?order=newest_first&catalog[]={cat or 3061}&search_text={urllib.parse.quote_plus(q)}"
         print(f"## {q}")
         time.sleep(8)  # Abstand zwischen Suchen, sonst blockt Vinted (DataDome)

@@ -27,3 +27,5 @@ Bei Dummy-Akkus: kein No-Name ohne Spannungsregelung; PD-Powerbank nötig (9/12 
 Richtpreise sind Schätzungen, keine geprüften Marktdaten.
 
 Bereits vorhanden (nicht mehr listen): K&F Concept UV-Filter 67 mm und K&F Concept Variabel-ND (ND2–ND2000) 67 mm. Bei 67 mm nur noch Polfilter (CPL) relevant; UV- und ND-Filter 67 mm überspringen. Sets nur werten, wenn der enthaltene CPL den Preis rechtfertigt.
+
+Filtergewinde des Nutzers: 67 mm. Filter mit 62 mm (oder anderer Größe) passen nicht, nicht listen. Vor jeder Filter-Bewertung Gewinde prüfen. Neue Angaben des Nutzers zu Besitz/Passform sofort hier und in suchen.txt eintragen.

@@ -10,11 +10,12 @@ Sigma 10-20 Nikon | 3061 | 10.?20
 Tokina 11-16 Nikon | 3061 | 11.?16
 Tamron 10-24 Nikon | 3061 | 10.?24
 # Phase 3: Filter (Kategorie Kameras & Zubehör 3054, Priorität 1 für Landschaft)
+# Filtergewinde des Nutzers: 67 mm (62 mm passt nicht, Suchen deaktiviert)
 Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
-Polfilter 62mm | 3054 | (pol|cpl).*62|62.*(pol|cpl)
+# Polfilter 62mm | 3054 | (pol|cpl).*62|62.*(pol|cpl)
 # Vorhanden (K&F Variabel-ND2-2000 67 mm), Suche deaktiviert
 # ND Filter 67mm | 3054 | \bND\b.*67|67.*\bND\b
-ND Filter 62mm | 3054 | \bND\b.*62|62.*\bND\b
+# ND Filter 62mm | 3054 | \bND\b.*62|62.*\bND\b
 # Phase 4: Halterung/Cage für LED-Licht und Recorder (Kategorie Kameras & Zubehör 3054, Priorität 3)
 SmallRig Cage Nikon D7500 | 3054 | cage|käfig|d7500
 Kamera Cage Kaltschuh DSLR | 3054 | cage|käfig|kaltschuh|bracket

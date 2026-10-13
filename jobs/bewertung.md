@@ -25,3 +25,5 @@ Abzug: kein Foto der Modellbezeichnung, kein Funktionsbeweis AF/VR, kein Zubehö
 Urteil: ✅ kaufen/anfragen · 🤔 verhandeln oder Fragen klären · ❌ nicht listen.
 Bei Dummy-Akkus: kein No-Name ohne Spannungsregelung; PD-Powerbank nötig (9/12 V); Garantieverlust möglich. EP-5B und EH-5b nur im Set sinnvoll (Akku-Attrappe + Netzteil). Bei Cages prüfen: passt zur D7500 (Akkufach unten, Anschlüsse seitlich frei), Kaltschuh vorhanden, kein loses Gewinde. Weitwinkel, Filter und Cage: Preise sind grobe Schätzungen (nicht geprüft). Bei Filtern Gewinde (62/67 mm) und "zirkular" beachten; Kratzer/Pilz ausschließen.
 Richtpreise sind Schätzungen, keine geprüften Marktdaten.
+
+Bereits vorhanden (nicht mehr listen): K&F Concept UV-Filter 67 mm und K&F Concept Variabel-ND (ND2–ND2000) 67 mm. Bei 67 mm nur noch Polfilter (CPL) relevant; UV- und ND-Filter 67 mm überspringen. Sets nur werten, wenn der enthaltene CPL den Preis rechtfertigt.

@@ -20,7 +20,7 @@ Zoom H5 (bestätigt), USB-C LED-Licht, externer Blitz, Anker-Powerbank 26k. Fehl
 
 ## 3. Empfehlung (Anfänger, artistisch + Landschaft)
 1. Erst nur Kamera + Tamron/18–140 nutzen. Zubehör am Schuh erst bei Bedarf.
-2. Kaufen in dieser Reihenfolge: Polfilter (67/62 mm) → stabiles Stativ → Fernauslöser → (später) Weitwinkel.
+2. Kaufen in dieser Reihenfolge: Polfilter (67 mm; Tamron 58 mm) → stabiles Stativ → Fernauslöser → (später) Weitwinkel.
 3. Recorder nur bei Video; separat führen oder an Cage montieren.
 4. Blitz erst für Porträts/Nacht; erst entfesselt per Commander lernen.
 5. Dummy-Akku zuletzt, nur bei echtem Bedarf (Zeitraffer/Video).

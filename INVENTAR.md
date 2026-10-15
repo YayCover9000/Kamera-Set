@@ -13,7 +13,7 @@
 | Hersteller/Modell | Bajonett | Brennweite/Blende | Filtergewinde | AF/Stabi | Zustand | Foto | Behalten? |
 |---|---|---|---|---|---|---|---|
 | Nikon AF-S DX 18–140 mm f/3.5–5.6G ED VR | Nikon F | 18–140 / f/3.5–5.6 | 67 mm | AF-S, VR | _offen_ | | ja (Allround) |
-| Tamron SP 90 mm f/2.8 Di VC USD Macro (F004) | Nikon F | 90 / f/2.8, Makro 1:1 | 62 mm | USD-AF, VC | gekauft (Vinted, 239 € + Versand), Eingang & Prüfung offen: Pilz/Schleier, AF, VC | | ja (Makro) |
+| Tamron SP 90 mm f/2.8 Di VC USD Macro (F004) | Nikon F | 90 / f/2.8, Makro 1:1 | 58 mm (laut Datenblatt F004, am Objektiv prüfen; früher irrtümlich 62 mm) | USD-AF, VC | gekauft (Vinted, 239 € + Versand), Eingang & Prüfung offen: Pilz/Schleier, AF, VC | | ja (Makro) |
 | Auto Revuenon 1:1,7 / 55 mm ("Lens Made in Japan", Nr. 399499) | vermutlich M42 (am Objektiv prüfen) | 55 / f/1.7 | _offen_ | manueller Fokus, Springblende (Auto) | _offen_ | | _offen_ |
 | Auto Chinon 1:1,7 / 55 mm (Nr. 440794, "Lens Made in Japan") | vermutlich M42 | 55 / f/1.7 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |
 | Multi-Coating Auto Revuenon 1:1,8 / 50 mm | vermutlich M42 | 50 / f/1.8 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |

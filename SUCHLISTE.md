@@ -14,7 +14,7 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 ## Kategorien
 | Prio | Kategorie | Konkret gesucht | Muss passen zu | Max. Preis | Status |
 |---|---|---|---|---|---|
-| 1 | Polfilter / ND-Filter | Zirkular-Polfilter Ø 67 mm (18–140) und Ø 62 mm (Tamron), ND bei Wasser/Himmel | Gewinde 67 / 62 mm | ca. 25–40 € je Filter | Suche aktiv (Vinted); Amazon nicht erreichbar |
+| 1 | Polfilter / ND-Filter | Zirkular-Polfilter Ø 67 mm (18–140) und Ø 58 mm (Tamron, am Objektiv prüfen), ND bei Wasser/Himmel | Gewinde 67 / 58 mm | ca. 25–40 € je Filter | Suche aktiv (Vinted); Amazon nicht erreichbar |
 | 2 | Weitwinkel (Landschaft) | Sigma 10–20, Nikon AF-P DX 10–20 VR, Tokina 11–16, Tamron 10–24 | Nikon F, DX | 130–190 € | Suche aktiv |
 | 3 | Teleobjektiv | AF-P DX 70–300 VR oder AF-S 70–300 VR (Alt.: 55–300 VR) | Nikon F, DX | 170–210 € | Suche aktiv, niedrige Priorität |
 | – | Makro 1:1 (Insekten/Natur) | Tamron SP 90 VC USD / Sigma 105 / Nikon 105 VR | Nikon F, AF an D7500 | 239 € bezahlt | gekauft (Tamron SP 90 VC USD), Eingang offen |

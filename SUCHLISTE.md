@@ -33,6 +33,7 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 | | Reinigung / Pflege | | | | offen |
 
 ## Notizen
+- Ziel: ein sinnvolles Gesamtset zusammenstellen, nicht einzelne Teile jagen. Auch Bundles (Kamera + Objektiv) zählen, wenn der Netto-Objektivpreis stimmt. Offener Kandidat 16.10.2026: D90 + AF-S 70–300 VR, 250 € (Verkäufer amecejo, Belgien), Prüfung von Linsen/AF/VR steht aus.
 - Nutzer: Anfänger, will in alle Richtungen probieren, Schwerpunkt artistisch und Landschaft (Stand 10.10.2026). Daher: erst Filter und ggf. Stativ, dann Weitwinkel, Tele zuletzt.
 - Nicht mehrere Objektive gleichzeitig kaufen; erst Tele, dann Makro.
 - Tamron 70–300 ohne VC und „Macro 1:2“ nur bei sehr niedrigem Preis (ca. 60–90 € auf Vinted gesehen).

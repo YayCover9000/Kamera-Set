@@ -29,3 +29,5 @@ Richtpreise sind Schätzungen, keine geprüften Marktdaten.
 Bereits vorhanden (nicht mehr listen): K&F Concept UV-Filter 67 mm und K&F Concept Variabel-ND (ND2–ND2000) 67 mm. Bei 67 mm nur noch Polfilter (CPL) relevant; UV- und ND-Filter 67 mm überspringen. Sets nur werten, wenn der enthaltene CPL den Preis rechtfertigt.
 
 Filtergewinde des Nutzers: 67 mm. Filter mit 62 mm (oder anderer Größe) passen nicht, nicht listen. Vor jeder Filter-Bewertung Gewinde prüfen. Neue Angaben des Nutzers zu Besitz/Passform sofort hier und in suchen.txt eintragen.
+
+Bundles (Kamera + Objektiv): Netto-Objektivpreis = Gesamtpreis minus geschätzter Wert des Kameragehäuses (D90 ca. 100–130 €, D7000 ca. 120–160 €, D5100 ca. 80–110 €, D3x00 ca. 60–100 €; Schätzungen, ungeprüft). Bewerten wie ein einzelnes Objektiv. Nur Nikon F mit AF-S/AF-P und VR (70–300 oder 55–300 VR) zählen als Tele. Alte Gehäuse nur zusätzlich: Auslösungen, Akku, Ladegerät erfragen. Beispiel: D90 + AF-S 70–300 VR für 250 € (Netto ca. 130–150 €) = ✅.

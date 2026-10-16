@@ -23,8 +23,8 @@ Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
 # Phase 5: Dauerstrom für D7500 (Priorität 3, nur bei Bedarf: Zeitraffer/Video)
 Nikon EP-5B EH-5b | 3054 | EP.?5B|EH.?5|netzteil|dummy|attrappe
 EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
-# Makro – erledigt (Tamron SP 90 VC USD gekauft am 09.10.2026), Suchen deaktiviert
-# Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
-# Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105
-# Nikon 105 VR Micro | 3061 | (?<![\d–-])105
-# Nikon 40mm Micro | 3061 | (?<![\d–-])40\s?mm
+# Makro – wieder offen: Tamron SP 90 VC USD zurückgeschickt (Klackern, Stand 16.10.2026). Bei Tamron auf Klackern/VC-Geräusch achten.
+Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
+Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105
+Nikon 105 VR Micro | 3061 | (?<![\d–-])105
+Nikon 40mm Micro | 3061 | (?<![\d–-])40\s?mm

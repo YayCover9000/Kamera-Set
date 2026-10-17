@@ -19,6 +19,7 @@
 | Multi-Coating Auto Revuenon 1:1,8 / 50 mm | vermutlich M42 | 50 / f/1.8 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |
 | Auto Chinon 1:2,8 / 28 mm (Nr. 531808) | vermutlich M42 | 28 / f/2.8 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |
 | Vivitar 75–240 mm 1:4,5 Auto Zoom (Nr. 37515491) | Mount unklar (Vivitar nutzte Wechsel-T-Mounts, vermutlich M42) | 75–240 / f/4.5 | 67 mm | manuell | _offen_ | | _offen_ |
+| Tamron SP 60 mm f/2 Di II LD Macro 1:1 (Nikon F, nur DX) | Nikon F | 60 / f/2, Makro 1:1 | 55 mm (laut Wissen, prüfen) | AF (Motor im Objektiv laut Wissen), kein Stabilisator | gekauft 17.10.2026 für 150 € (Vinted), Eingang & Test offen | | ja (Makro) |
 | | | | | | | | |
 
 ## Sonstiges Zubehör

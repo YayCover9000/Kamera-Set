@@ -7,6 +7,7 @@ Wird gefüllt, sobald das Inventar steht.
 |---|---|
 | AF-S DX 18–140 mm VR | ✅ nativ (AF-S, VR) |
 | Tamron SP 90 mm VC USD (F004, Nikon F) | ✅ nativ (USD-AF, VC; Crop 1,5 → ≈135 mm KB) |
+| Tamron SP 60 mm f/2 Di II Macro (Nikon F, DX) | ✅ nativ (AF, 1:1; ≈90 mm KB, kein Stabi) |
 | Auto Revuenon 55 mm f/1.7 (vermutlich M42) | 🔁 nur mit M42→Nikon-F-Adapter; nur manueller Fokus, Abblendmessung; ohne Korrekturlinse kein Unendlich-Fokus (Auflagemaß) – Details unten |
 
 Legende: ✅ nativ · 🔁 mit Adapter (AF/Stabi?) · ⚠️ eingeschränkt (Crop, nur manuell) · ❌ nicht nutzbar

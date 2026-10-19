@@ -20,6 +20,8 @@ Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
 SmallRig Cage Nikon D7500 | 3054 | cage|käfig|d7500
 Kamera Cage Kaltschuh DSLR | 3054 | cage|käfig|kaltschuh|bracket
 Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
+L Bracket Nikon D7500 | 3054 | l.?bracket|l-winkel|l-platte|d7500|kameraschiene
+Universal DSLR Cage Rig | 3054 | cage|rig|käfig|halterung
 # Phase 5: Dauerstrom für D7500 (Priorität 3, nur bei Bedarf: Zeitraffer/Video)
 Nikon EP-5B EH-5b | 3054 | EP.?5B|EH.?5|netzteil|dummy|attrappe
 EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B

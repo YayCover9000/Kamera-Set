@@ -1,9 +1,9 @@
 # Format: Suchbegriff | Vinted-Kategorie-ID | Titel-Filter (Regex, ohne Beachtung der Schreibweise)
 # Kategorie 3061 = Elektronik > Kameras & Zubehör > Objektive
-# Phase 1: Tele (Fokus)
-Nikon AF-P 70-300 | 3061 | 70.?300
-Nikon AF-S 70-300 VR | 3061 | 70.?300
-Nikon 55-300 VR | 3061 | 55.?300
+# Phase 1: Tele – erledigt (AF-S 70-300 VR im D90-Bundle gekauft 20.10.2026), Suchen deaktiviert
+# Nikon AF-P 70-300 | 3061 | 70.?300
+# Nikon AF-S 70-300 VR | 3061 | 70.?300
+# Nikon 55-300 VR | 3061 | 55.?300
 # Phase 2: Weitwinkel (Landschaft, Priorität 2)
 Nikon AF-P DX 10-20 | 3061 | 10.?20
 Sigma 10-20 Nikon | 3061 | 10.?20
@@ -24,10 +24,10 @@ Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
 Nikon EP-5B EH-5b | 3054 | EP.?5B|EH.?5|netzteil|dummy|attrappe
 EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
 # Phase 6: Bundles (Kamera + Tele/Weitwinkel), Netto-Objektivpreis beachten (siehe bewertung.md)
-Nikon D90 70-300 | 3054 | 70.?300
-Nikon D7000 70-300 | 3054 | 70.?300
-Nikon D5100 70-300 | 3054 | 70.?300
-Nikon Set Kit Objektive VR | 3054 | 70.?300|55.?300|10.?20
+# Nikon D90 70-300 | 3054 | 70.?300
+# Nikon D7000 70-300 | 3054 | 70.?300
+# Nikon D5100 70-300 | 3054 | 70.?300
+# Nikon Set Kit Objektive VR | 3054 | 70.?300|55.?300|10.?20
 # Makro – erledigt: Tamron SP 60 f/2 Di II Macro gekauft am 17.10.2026 (150 €), Suchen deaktiviert. (Früher: Tamron SP 90 VC USD zurückgeschickt wegen Klackern.)
 # Tamron SP 90 Macro Nikon | 3061 | 90\s?mm|SP 90|F004|F017
 Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105

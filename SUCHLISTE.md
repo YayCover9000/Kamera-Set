@@ -16,7 +16,7 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 |---|---|---|---|---|---|
 | 1 | Polfilter / ND-Filter | Zirkular-Polfilter Ø 67 mm (18–140) und Ø 58 mm (Tamron, am Objektiv prüfen), ND bei Wasser/Himmel | Gewinde 67 / 58 mm | ca. 25–40 € je Filter | Suche aktiv (Vinted); Amazon nicht erreichbar |
 | 2 | Weitwinkel (Landschaft) | Sigma 10–20, Nikon AF-P DX 10–20 VR, Tokina 11–16, Tamron 10–24 | Nikon F, DX | 130–190 € | Suche aktiv |
-| 3 | Teleobjektiv | AF-P DX 70–300 VR oder AF-S 70–300 VR (Alt.: 55–300 VR) | Nikon F, DX | 170–210 € | Suche aktiv, niedrige Priorität |
+| – | Teleobjektiv | AF-S 70-300 VR (Bundle mit D90) | Nikon F, DX | 250 € bezahlt (Bundle) | gekauft 20.10.2026, Eingang/Test offen |
 | – | Makro 1:1 (Insekten/Natur) | Tamron SP 60 f/2 Di II Macro | Nikon F, DX | 150 € bezahlt | gekauft 17.10.2026, Eingang/Test offen (Tamron 90 VC USD wurde zurückgeschickt) |
 | – | Makro kompakt | Nikon AF-S DX Micro 40 mm f/2.8G | Nikon F, DX | _offen_ | entfällt (Makro mit Tamron abgedeckt) |
 | 3 | Cage / Halterung (LED-Licht, Recorder) | SmallRig D7500-Cage oder universal mit Kaltschuh + 1/4" | Stativgewinde D7500, Akkufach frei | ca. 30–50 € | Suche aktiv (Vinted), Amazon nicht erreichbar |

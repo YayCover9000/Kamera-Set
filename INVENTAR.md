@@ -4,6 +4,7 @@
 | Hersteller/Modell | Bajonett | Sensor | Baujahr/Auslösungen | Zustand | Foto | Behalten? |
 |---|---|---|---|---|---|---|
 | Nikon D7500 | Nikon F (mit internem AF-Motor) | DX/APS-C, 20,9 MP | _offen_ | _offen_ | | ja |
+| Nikon D90 (aus Bundle, 17./20.10.2026) | Nikon F (mit internem AF-Motor) | DX/APS-C, 12,3 MP | Auslösungen _offen_ | gekauft, Eingang & Test offen; Ersatzakku, Ladegerät (ohne Kabel), Tragetasche | | Zweitkamera oder Verkauf (offen) |
 | Revueflex 3000 SM (Analog-SLR, Film) | vermutlich M42 (Schraubgewinde), bitte prüfen | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
 | Chinon CE-3 Memotron (Analog-SLR, Film), mit Chinon Power Winder | M42 (laut Wissen) | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
 | Revue-Kamera, Modell unbekannt (Nummer nicht lesbar) | _offen_ | Kleinbildfilm | _offen_ | _offen_ | | _offen_ |
@@ -19,6 +20,7 @@
 | Multi-Coating Auto Revuenon 1:1,8 / 50 mm | vermutlich M42 | 50 / f/1.8 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |
 | Auto Chinon 1:2,8 / 28 mm (Nr. 531808) | vermutlich M42 | 28 / f/2.8 | _offen_ | manuell, Auto-Blende | _offen_ | | _offen_ |
 | Vivitar 75–240 mm 1:4,5 Auto Zoom (Nr. 37515491) | Mount unklar (Vivitar nutzte Wechsel-T-Mounts, vermutlich M42) | 75–240 / f/4.5 | 67 mm | manuell | _offen_ | | _offen_ |
+| Nikon AF-S Nikkor 70-300 mm f/4.5-5.6G ED VR (aus Bundle mit D90) | Nikon F | 70–300 / f/4.5–5.6 | 67 mm (laut Wissen, prüfen) | AF-S, VR | gekauft 250 € (Bundle), Eingang & Test offen: VR, Klackern, Linsen | | ja (Tele) |
 | Tamron SP 60 mm f/2 Di II LD Macro 1:1 (Nikon F, nur DX) | Nikon F | 60 / f/2, Makro 1:1 | 55 mm (laut Wissen, prüfen) | AF (Motor im Objektiv laut Wissen), kein Stabilisator | gekauft 17.10.2026 für 150 € (Vinted), Eingang & Test offen | | ja (Makro) |
 | | | | | | | | |
 

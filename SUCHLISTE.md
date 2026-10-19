@@ -21,6 +21,7 @@ Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **B
 | 3 | Cage / Halterung (LED-Licht, Recorder) | D7500-Cage oder universal, Kaltschuh + 1/4"-Gewinde | 30 / 50 € | Suche aktiv |
 | 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder markengeprüfter USB-C-Dummy-Akku EN-EL15 | 40 / 60 € | Suche aktiv |
 | 4 | Langes Tele (nur wenn Vögel packen) | Sigma oder Tamron 150–600 für Nikon F (mit Motor/HSM/USD), kein zusätzliches 100–400 (Dopplung) | 750 / 950 € (Schätzung) | Suche aktiv, nur Beobachtung |
+| 4 | Einbeinstativ | für 70-300 / später langes Tele, 1/4"-Gewinde | 25 / 40 € (Schätzung) | Suche aktiv (Vinted), nur Beobachtung |
 | 2 | Fernauslöser (Kabel MC-DC2 oder Funk) und Reserve-Akku EN-EL15 | passend zur D7500 (MC-DC2-Anschluss, Akku EN-EL15a/b/c) | 12 / 20 € bzw. 30 / 40 € | Suche aktiv (Vinted) |
 | 1 | Stativ / Fernauslöser | Victiv 182 cm vorhanden (ca. 1,3 kg, bei voller Höhe wackelig); ggf. stabileres Reisestativ oder Einbeinstativ für 70-300, Fernauslöser | – | noch keine Suche; erst Filter, dann Stativ-Frage |
 

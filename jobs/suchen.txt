@@ -28,6 +28,8 @@ EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
 # Phase 7: Langes Tele (nur Beobachtung, kein Kauf geplant), Kategorie Objektive
 Sigma 150-600 Nikon | 3061 | 150.?600
 Tamron 150-600 Nikon | 3061 | 150.?600
+# Phase 9: Einbeinstativ (Priorität 4, für 70-300 / langes Tele, nur Beobachtung)
+Einbeinstativ Kamera | 3054 | einbein|monopod
 # Phase 8: Fernauslöser und Reserve-Akku für die D7500 (Kategorie Kameras & Zubehör 3054, Priorität 1–2)
 Nikon MC-DC2 Fernauslöser | 3054 | MC.?DC2|fernausl|remote
 Nikon ML-L3 Fernbedienung | 3054 | ML.?L3|fernbedien|remote

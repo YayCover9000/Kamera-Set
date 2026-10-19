@@ -23,6 +23,9 @@ Blitzschiene Kaltschuh | 3054 | schiene|bracket|kaltschuh
 # Phase 5: Dauerstrom für D7500 (Priorität 3, nur bei Bedarf: Zeitraffer/Video)
 Nikon EP-5B EH-5b | 3054 | EP.?5B|EH.?5|netzteil|dummy|attrappe
 EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
+# Phase 7: Langes Tele (nur Beobachtung, kein Kauf geplant), Kategorie Objektive
+Sigma 150-600 Nikon | 3061 | 150.?600
+Tamron 150-600 Nikon | 3061 | 150.?600
 # Phase 6: Bundles (Kamera + Tele/Weitwinkel), Netto-Objektivpreis beachten (siehe bewertung.md)
 # Nikon D90 70-300 | 3054 | 70.?300
 # Nikon D7000 70-300 | 3054 | 70.?300

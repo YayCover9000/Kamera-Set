@@ -11,26 +11,20 @@ Details: [recherche/2026-10-09_vinted_objektiv_einschaetzung.md](recherche/2026-
 - Gesamtbudget?
 - Neu oder gebraucht (z. B. Kleinanzeigen, MPB, eBay)?
 
-## Kategorien
-| Prio | Kategorie | Konkret gesucht | Muss passen zu | Max. Preis | Status |
-|---|---|---|---|---|---|
-| 1 | Polfilter / ND-Filter | Zirkular-Polfilter Ø 67 mm (18–140) und Ø 58 mm (Tamron, am Objektiv prüfen), ND bei Wasser/Himmel | Gewinde 67 / 58 mm | ca. 25–40 € je Filter | Suche aktiv (Vinted); Amazon nicht erreichbar |
-| 2 | Weitwinkel (Landschaft) | Sigma 10–20, Nikon AF-P DX 10–20 VR, Tokina 11–16, Tamron 10–24 | Nikon F, DX | 130–190 € | Suche aktiv |
-| – | Teleobjektiv | AF-S 70-300 VR (Bundle mit D90) | Nikon F, DX | 250 € bezahlt (Bundle) | gekauft 20.10.2026, Eingang/Test offen |
-| – | Makro 1:1 (Insekten/Natur) | Tamron SP 60 f/2 Di II Macro | Nikon F, DX | 150 € bezahlt | gekauft 17.10.2026, Eingang/Test offen (Tamron 90 VC USD wurde zurückgeschickt) |
-| – | Makro kompakt | Nikon AF-S DX Micro 40 mm f/2.8G | Nikon F, DX | _offen_ | entfällt (Makro mit Tamron abgedeckt) |
-| 3 | Cage / Halterung (LED-Licht, Recorder) | SmallRig D7500-Cage oder universal mit Kaltschuh + 1/4" | Stativgewinde D7500, Akkufach frei | ca. 30–50 € | Suche aktiv (Vinted), Amazon nicht erreichbar |
-| 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder USB-C-Dummy-Akku EN-EL15 (Marke, PD) | D7500, PD-Powerbank | ca. 25–60 € | Suche aktiv (Vinted), Amazon nicht erreichbar |
-| | Stativ / Kopf | | | | offen |
-| | Blitz / Licht | | | | offen |
-| | Akkus / Ladegeräte | | | | offen |
-| | Speicherkarten | | | | offen |
-| | Filter (ND, Pol, UV) | | | | offen |
-| | Adapter (Bajonett, Filter) | | | | offen |
-| | Tasche / Rucksack | | | | offen |
-| | Mikrofon / Audio | | | | offen |
-| | Gimbal / Rig / Cage | | | | offen |
-| | Reinigung / Pflege | | | | offen |
+## Prioritätenliste (Wunschliste, Stand 20.10.2026)
+Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **Beobachtungsliste**: Die tägliche Suche meldet nur, wenn etwas unter den Preisgrenzen auftaucht; gekauft wird nur nach Rücksprache.
+
+| Prio | Kategorie | Konkret gesucht | Max. Preis (✅ / 🤔) | Status |
+|---|---|---|---|---|
+| 1 | Polfilter 67 mm | zirkular, Marke (Hoya, B+W, K&F Nano) für das 18–140 und das 70-300 (67 mm) | 25 / 40 € | Suche aktiv |
+| 2 | Weitwinkel (Landschaft) | Sigma 10–20 HSM, Nikon AF-P DX 10–20 VR, Tokina 11–16 (DX II mit Motor), Tamron 10–24 | 130–180 / 160–230 € | Suche aktiv |
+| 3 | Cage / Halterung (LED-Licht, Recorder) | D7500-Cage oder universal, Kaltschuh + 1/4"-Gewinde | 30 / 50 € | Suche aktiv |
+| 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder markengeprüfter USB-C-Dummy-Akku EN-EL15 | 40 / 60 € | Suche aktiv |
+| 4 | Langes Tele (nur wenn Vögel packen) | Sigma oder Tamron 150–600 für Nikon F (mit Motor/HSM/USD), kein zusätzliches 100–400 (Dopplung) | 750 / 950 € (Schätzung) | Suche aktiv, nur Beobachtung |
+| – | Stativ / Fernauslöser | stabiles Reisestativ, Fernauslöser (ca. 40–60 €) | – | noch keine Suche |
+
+## Bereits gekauft / vorhanden
+D7500, AF-S DX 18–140 VR, Tamron SP 60 f/2 Macro (150 €, Eingang offen), D90 + AF-S 70-300 VR (250 €, Eingang offen), Zoom H5, LED-Licht, Blitz, Anker-Powerbank, diverse Analog-Kameras/-Objektive (siehe INVENTAR.md).
 
 ## Notizen
 - Ziel: ein sinnvolles Gesamtset zusammenstellen, nicht einzelne Teile jagen. Auch Bundles (Kamera + Objektiv) zählen, wenn der Netto-Objektivpreis stimmt. Offener Kandidat 16.10.2026: D90 + AF-S 70–300 VR, 250 € (Verkäufer amecejo, Belgien), Prüfung von Linsen/AF/VR steht aus.

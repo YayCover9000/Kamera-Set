@@ -31,4 +31,5 @@
 | USB-C LED-Licht für Blitzschuh | Modell offen, Gewicht offen | _offen_ | ja |
 | Externer Blitz | Modell offen (SB-700/SB-500/Drittanbieter?) | _offen_ | ja |
 | Metz Mecablitz 30 BCT-4 (Blitz, alt) | Schuh/Blitz, Spannung unbekannt | **vor Nutzung an der D7500 Triggerspannung messen** | ?  |
+| Leichtes Stativ (Modell/Tragfähigkeit offen) | für Landschaft/Makro; für 70-300 + D7500 (ca. 1,5 kg) Tragfähigkeit prüfen | _offen_ | ja |
 | Anker Powerbank 26k | ca. 26.800 mAh, ca. 0,5 kg | _offen_ | ja |

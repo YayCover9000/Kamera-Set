@@ -37,3 +37,5 @@ Langes Tele (nur Beobachtung): Sigma/Tamron 150–600 für Nikon F: ✅ bis 750 
 Fernauslöser für D7500: Nikon MC-DC2 (Kabel) ✅ bis 12 €, 🤔 bis 20 €; Nikon ML-L3 (Infrarot) ✅ bis 8 €, 🤔 bis 12 €; Drittanbieter-Funkfernauslöser für Nikon (10-Pin/MC-DC2-Anschluss) bis 25 €. Reserve-Akku Nikon EN-EL15a/b/c (Original): ✅ bis 30 €, 🤔 bis 40 € (Zustand, Ladezyklen erfragen; Fremdakkus nur mit Hinweis). Alles grobe Schätzungen, ungeprüft.
 
 Einbeinstativ (Monopod) für DSLR, Alu oder Carbon, mit 1/4"-Gewinde: ✅ bis 25 €, 🤔 bis 40 € (grobe Schätzung, ungeprüft); Marken wie Manfrotto, Sirui, Benro, Velbon, Neewer, K&F zählen. Auf Klemmen/Verriegelungen und Gummifuß achten. L-Bracket Arca (Neewer/SmallRig o. ä.): ✅ bis 18 €, 🤔 bis 28 €.
+
+Mehrfach-Kaltschuh/Erweiterung (mit 2–3 Schuhen, 1/4"-Gewinde): ✅ bis 12 €, 🤔 bis 20 €. Kaltschuh nicht am Blitzschuh überladen (Richtwert unter 300–400 g gesamt); tragende Lasten an Stativgewinde/L-Winkel. Alles Schätzungen, ungeprüft.

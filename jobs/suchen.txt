@@ -31,6 +31,8 @@ Tamron 150-600 Nikon | 3061 | 150.?600
 # Phase 10: Mehrfach-Kaltschuh (Licht 1–2, Recorder, Akku-Halter), Kategorie Kameras & Zubehör
 Kaltschuh Verlängerung Erweiterung | 3054 | kaltschuh|cold shoe|hot shoe|schuh
 SmallRig Top Handle Kaltschuh | 3054 | smallrig|handle|griff
+# Phase 11: Adapter M42 auf Nikon F (nur Beobachtung, für alte Objektive; mit Korrekturlinse für Unendlich-Fokus)
+M42 Nikon Adapter | 3054 | m42|adapter
 # Phase 9: Einbeinstativ (Priorität 4, für 70-300 / langes Tele, nur Beobachtung)
 Einbeinstativ Kamera | 3054 | einbein|monopod
 # Phase 8: Fernauslöser und Reserve-Akku für die D7500 (Kategorie Kameras & Zubehör 3054, Priorität 1–2)

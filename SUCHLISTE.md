@@ -21,6 +21,7 @@ Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **B
 | 3 | Cage / Halterung (LED-Licht, Recorder) | D7500-Cage oder universal, Kaltschuh + 1/4"-Gewinde | 30 / 50 € | Suche aktiv |
 | 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder markengeprüfter USB-C-Dummy-Akku EN-EL15 | 40 / 60 € | Suche aktiv |
 | 4 | Langes Tele (nur wenn Vögel packen) | Sigma oder Tamron 150–600 für Nikon F (mit Motor/HSM/USD), kein zusätzliches 100–400 (Dopplung) | 750 / 950 € (Schätzung) | Suche aktiv, nur Beobachtung |
+| 4 | M42→Nikon-F-Adapter (mit Korrekturlinse) | für Auto Chinon 55/1.7, Revuenon 50/1.8, Chinon 28/2.8, Vivitar 75-240 – vor Kauf Gewinde prüfen | 12 / 20 € (Schätzung) | Suche aktiv, nur Beobachtung |
 | 3 | Mehrfach-Kaltschuh-System (Licht 1–2, Recorder, Akku-Halter) | L-Winkel am Stativgewinde als Träger + Kaltschuh-Erweiterung/Schiene; Powerbank nicht an der Kamera | ca. 40–60 € gesamt | Suche aktiv, noch nicht gekauft |
 | 3 | Doppel-Schiene mit Kaltschuh (für LED-Licht + Recorder) | WANGCL Doppel-Blitzhalter (ca. 8 €, Amazon) – Kaltschuh an den Enden oder 1/4"-Kaltschuh-Adapter (je ca. 3–6 €) nötig | ca. 8 € + Adapter | beobachten, noch nicht gekauft |
 | 4 | Einbeinstativ | für 70-300 / später langes Tele, 1/4"-Gewinde | 25 / 40 € (Schätzung) | Suche aktiv (Vinted), nur Beobachtung |

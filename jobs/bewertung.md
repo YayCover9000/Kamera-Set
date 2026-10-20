@@ -39,3 +39,5 @@ Fernauslöser für D7500: Nikon MC-DC2 (Kabel) ✅ bis 12 €, 🤔 bis 20 €; 
 Einbeinstativ (Monopod) für DSLR, Alu oder Carbon, mit 1/4"-Gewinde: ✅ bis 25 €, 🤔 bis 40 € (grobe Schätzung, ungeprüft); Marken wie Manfrotto, Sirui, Benro, Velbon, Neewer, K&F zählen. Auf Klemmen/Verriegelungen und Gummifuß achten. L-Bracket Arca (Neewer/SmallRig o. ä.): ✅ bis 18 €, 🤔 bis 28 €.
 
 Mehrfach-Kaltschuh/Erweiterung (mit 2–3 Schuhen, 1/4"-Gewinde): ✅ bis 12 €, 🤔 bis 20 €. Kaltschuh nicht am Blitzschuh überladen (Richtwert unter 300–400 g gesamt); tragende Lasten an Stativgewinde/L-Winkel. Alles Schätzungen, ungeprüft.
+
+Adapter M42 auf Nikon F: mit Korrekturlinse (Unendlich-Fokus) ✅ bis 12 €, 🤔 bis 20 €; ohne Linse nur für Nahbereich. Alles grobe Schätzungen, ungeprüft.

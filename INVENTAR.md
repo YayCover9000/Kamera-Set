@@ -32,5 +32,6 @@
 | USB-C LED-Licht für Blitzschuh | Modell offen, Gewicht offen | _offen_ | ja |
 | Externer Blitz | Modell offen (SB-700/SB-500/Drittanbieter?) | _offen_ | ja |
 | Metz Mecablitz 30 BCT-4 (Blitz, alt) | Schuh/Blitz, Spannung unbekannt | **vor Nutzung an der D7500 Triggerspannung messen** | ?  |
+| Bestellt bei Amazon (18./19.10.2026, Eingang offen): K&F CPL-Polfilter 67 mm; MC-DC2-Fernauslöser (Nachbau, ca. 6 €); THQAE Doppel-Kaltschuh-Schiene 20 cm; Mini-HDMI-Kabel; USB-C-auf-Micro-USB-Kabel | Zubehör, Kompatibilität mit D7500 beim Auspacken prüfen | _offen_ | ja |
 | Victiv 182 cm Alu-Stativ (orange, gekauft 25.02.2025, ca. 38 €) | 55–182 cm, ca. 1,3 kg, 3-Wege-Kopf (laut Anbieter bis ca. 6 kg), Schnellwechselplatte, Flip-Locks; schwach bei voller Höhe und Wind (Plastikteile, Kurbel) | gut für 18–140/Tamron 60; mit 70-300 niedrig/mittlere Höhe | ja |
 | Anker Powerbank 26k | ca. 26.800 mAh, ca. 0,5 kg | _offen_ | ja |

@@ -9,9 +9,9 @@ Nikon AF-P DX 10-20 | 3061 | 10.?20
 Sigma 10-20 Nikon | 3061 | 10.?20
 Tokina 11-16 Nikon | 3061 | 11.?16
 Tamron 10-24 Nikon | 3061 | 10.?24
-# Phase 3: Filter (Kategorie Kameras & Zubehör 3054, Priorität 1 für Landschaft)
+# Phase 3: Filter – Polfilter 67 mm bestellt (K&F CPL, 19.10.2026), Polfilter-Suche aus; ND vorhanden (Kategorie Kameras & Zubehör 3054, Priorität 1 für Landschaft)
 # Filtergewinde des Nutzers: 67 mm (62 mm passt nicht, Suchen deaktiviert)
-Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
+# Polfilter 67mm | 3054 | (pol|cpl).*67|67.*(pol|cpl)
 # Polfilter 62mm | 3054 | (pol|cpl).*62|62.*(pol|cpl)
 # Vorhanden (K&F Variabel-ND2-2000 67 mm), Suche deaktiviert
 # ND Filter 67mm | 3054 | \bND\b.*67|67.*\bND\b
@@ -29,15 +29,15 @@ EN-EL15 Dummy Akku USB-C | 3054 | dummy|attrappe|EN.?EL15|EP.?5B
 Sigma 150-600 Nikon | 3061 | 150.?600
 Tamron 150-600 Nikon | 3061 | 150.?600
 # Phase 10: Mehrfach-Kaltschuh (Licht 1–2, Recorder, Akku-Halter), Kategorie Kameras & Zubehör
-Kaltschuh Verlängerung Erweiterung | 3054 | kaltschuh|cold shoe|hot shoe|schuh
-SmallRig Top Handle Kaltschuh | 3054 | smallrig|handle|griff
+# Kaltschuh Verlängerung Erweiterung | 3054 | kaltschuh|cold shoe|hot shoe|schuh
+# SmallRig Top Handle Kaltschuh | 3054 | smallrig|handle|griff
 # Phase 11: Adapter M42 auf Nikon F (nur Beobachtung, für alte Objektive; mit Korrekturlinse für Unendlich-Fokus)
 M42 Nikon Adapter | 3054 | m42|adapter
 # Phase 9: Einbeinstativ (Priorität 4, für 70-300 / langes Tele, nur Beobachtung)
 Einbeinstativ Kamera | 3054 | einbein|monopod
-# Phase 8: Fernauslöser und Reserve-Akku für die D7500 (Kategorie Kameras & Zubehör 3054, Priorität 1–2)
-Nikon MC-DC2 Fernauslöser | 3054 | MC.?DC2|fernausl|remote
-Nikon ML-L3 Fernbedienung | 3054 | ML.?L3|fernbedien|remote
+# Phase 8: (MC-DC2 und Kaltschuh-Schiene bestellt 19.10.2026, Suchen aus; Reserve-Akku bleibt aktiv)  Fernauslöser und Reserve-Akku für die D7500 (Kategorie Kameras & Zubehör 3054, Priorität 1–2)
+# Nikon MC-DC2 Fernauslöser | 3054 | MC.?DC2|fernausl|remote
+# Nikon ML-L3 Fernbedienung | 3054 | ML.?L3|fernbedien|remote
 Nikon EN-EL15 Akku D7500 | 3054 | EN.?EL15
 # Phase 6: Bundles (Kamera + Tele/Weitwinkel), Netto-Objektivpreis beachten (siehe bewertung.md)
 # Nikon D90 70-300 | 3054 | 70.?300

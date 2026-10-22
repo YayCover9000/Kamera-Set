@@ -33,6 +33,8 @@ Tamron 150-600 Nikon | 3061 | 150.?600
 # SmallRig Top Handle Kaltschuh | 3054 | smallrig|handle|griff
 # Phase 11: Adapter M42 auf Nikon F (nur Beobachtung, für alte Objektive; mit Korrekturlinse für Unendlich-Fokus)
 M42 Nikon Adapter | 3054 | m42|adapter
+# Phase 12: Klett-Trennwände für K&F-Kamerarucksack (nur Beobachtung, nach Maßen prüfen)
+Kamera Trennwände Klett Rucksack | 3054 | trennwand|trenner|divider|partition|einsatz
 # Phase 9: Einbeinstativ (Priorität 4, für 70-300 / langes Tele, nur Beobachtung)
 Einbeinstativ Kamera | 3054 | einbein|monopod
 # Phase 8: (MC-DC2 und Kaltschuh-Schiene bestellt 19.10.2026, Suchen aus; Reserve-Akku bleibt aktiv)  Fernauslöser und Reserve-Akku für die D7500 (Kategorie Kameras & Zubehör 3054, Priorität 1–2)

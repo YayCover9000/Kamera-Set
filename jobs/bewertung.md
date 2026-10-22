@@ -41,3 +41,5 @@ Einbeinstativ (Monopod) für DSLR, Alu oder Carbon, mit 1/4"-Gewinde: ✅ bis 25
 Mehrfach-Kaltschuh/Erweiterung (mit 2–3 Schuhen, 1/4"-Gewinde): ✅ bis 12 €, 🤔 bis 20 €. Kaltschuh nicht am Blitzschuh überladen (Richtwert unter 300–400 g gesamt); tragende Lasten an Stativgewinde/L-Winkel. Alles Schätzungen, ungeprüft.
 
 Adapter M42 auf Nikon F: mit Korrekturlinse (Unendlich-Fokus) ✅ bis 12 €, 🤔 bis 20 €; ohne Linse nur für Nahbereich. Alles grobe Schätzungen, ungeprüft.
+
+Klett-Trennwände für Kamerarucksack (gepolstert, einzeln oder Set): ✅ bis 8 €, 🤔 bis 15 €. Maße (Höhe × Breite) müssen zum K&F-Rucksackfach passen; Klett-Seite (Haken/Flausch) beachten. Grobe Schätzung, ungeprüft.

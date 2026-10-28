@@ -25,7 +25,7 @@ Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **B
 | 3 | Mehrfach-Kaltschuh-System (Licht 1–2, Recorder, Akku-Halter) | L-Winkel am Stativgewinde als Träger + Kaltschuh-Erweiterung/Schiene; Powerbank nicht an der Kamera | ca. 40–60 € gesamt | Suche aktiv, noch nicht gekauft |
 | 3 | Doppel-Schiene mit Kaltschuh (für LED-Licht + Recorder) | WANGCL Doppel-Blitzhalter (ca. 8 €, Amazon) – Kaltschuh an den Enden oder 1/4"-Kaltschuh-Adapter (je ca. 3–6 €) nötig | ca. 8 € + Adapter | beobachten, noch nicht gekauft |
 | 4 | Klett-Trennwände für K&F-Kamerarucksack | gepolstert, verstellbar, Maße zum Fach prüfen | 8 / 15 € | Suche aktiv (Vinted), Amazon nach Maßen |
-| 4 | Einbeinstativ | für 70-300 / später langes Tele, 1/4"-Gewinde | 25 / 40 € (Schätzung) | Suche aktiv (Vinted), nur Beobachtung |
+| – | Einbeinstativ (gekauft) | für 70-300 / später langes Tele, 1/4"-Gewinde | 25 / 40 € (Schätzung) | Suche aktiv (Vinted), nur Beobachtung |
 | 2 | Reserve-Akku EN-EL15 (Fernauslöser MC-DC2 bestellt 19.10.) | passend zur D7500 (MC-DC2-Anschluss, Akku EN-EL15a/b/c) | 12 / 20 € bzw. 30 / 40 € | Suche aktiv (Vinted) |
 | 1 | Stativ / Fernauslöser | Victiv 182 cm vorhanden (ca. 1,3 kg, bei voller Höhe wackelig); ggf. stabileres Reisestativ oder Einbeinstativ für 70-300, Fernauslöser | – | noch keine Suche; erst Filter, dann Stativ-Frage |
 

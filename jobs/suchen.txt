@@ -51,3 +51,8 @@ Nikon EN-EL15 Akku D7500 | 3054 | EN.?EL15
 Sigma 105 Macro Nikon | 3061 | (?<![\d–-])105
 Nikon 105 VR Micro | 3061 | (?<![\d–-])105
 Nikon 40mm Micro | 3061 | (?<![\d–-])40\s?mm
+Nikon AF-S 50mm 1.8G | 3061 | 50.?mm.*1[.,]8|1[.,]8.*50
+Nikon 14-24 2.8 | 3061 | 14.?24
+Nikon 24-70 2.8 G | 3061 | 24.?70
+Nikon 70-200 2.8 VR II | 3061 | 70.?200
+Nikon 80-400 VR | 3061 | 80.?400

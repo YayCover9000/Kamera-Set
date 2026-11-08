@@ -21,6 +21,11 @@ Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **B
 | 3 | Cage / Halterung (LED-Licht, Recorder) | D7500-Cage oder universal, Kaltschuh + 1/4"-Gewinde | 30 / 50 € | Suche aktiv |
 | 3 | Dauerstrom (nur bei Bedarf) | Nikon EP-5B + EH-5b oder markengeprüfter USB-C-Dummy-Akku EN-EL15 | 40 / 60 € | Suche aktiv |
 | 4 | Langes Tele (nur wenn Vögel packen) | Sigma oder Tamron 150–600 für Nikon F (mit Motor/HSM/USD), kein zusätzliches 100–400 (Dopplung) | 750 / 950 € (Schätzung) | Suche aktiv, nur Beobachtung |
+| 2 | Nikon AF-S 50 mm f/1.8G (FX, 58 mm) | günstige lichtstarke Festbrennweite, an DX ca. 75 mm Kleinbild-Äquivalent (Porträt, Details); Zustand/Linsen/AF prüfen | 90 / 130 € (Schätzung) | Suche aktiv |
+| 3 | Nikon AF-S 24-70 mm f/2.8G (82 mm) | Profi-Standardzoom, groß/schwer (ca. 900 g), an DX 36–105 mm; Zoom- und AF-Verhalten prüfen | 600 / 800 € (Schätzung) | nur Beobachtung |
+| 4 | Nikon AF-S 14-24 mm f/2.8G | FX-Weitwinkel, keine Filter möglich (Frontlinse), sehr teuer; für DX ist Sigma/Tokina 10-20/11-16 sinnvoller | 700 / 900 € (Schätzung) | nur Beobachtung |
+| 4 | Nikon AF-S 70-200 mm f/2.8G VR II | teuer/schwer (ca. 1,5 kg), Dopplung zum 70-300 | 1000 / 1300 € (Schätzung) | nur Beobachtung |
+| 4 | Nikon AF-S 80-400 mm f/4.5-5.6G ED VR | Dopplung zum 70-300 und zum 150-600; nur falls Tele-Test mehr Reichweite verlangt | 700 / 900 € (Schätzung) | nur Beobachtung |
 | 4 | M42→Nikon-F-Adapter (mit Korrekturlinse) | für Auto Chinon 55/1.7, Revuenon 50/1.8, Chinon 28/2.8, Vivitar 75-240 – vor Kauf Gewinde prüfen | 12 / 20 € (Schätzung) | Suche aktiv, nur Beobachtung |
 | 3 | Mehrfach-Kaltschuh-System (Licht 1–2, Recorder, Akku-Halter) | L-Winkel am Stativgewinde als Träger + Kaltschuh-Erweiterung/Schiene; Powerbank nicht an der Kamera | ca. 40–60 € gesamt | Suche aktiv, noch nicht gekauft |
 | 3 | Doppel-Schiene mit Kaltschuh (für LED-Licht + Recorder) | WANGCL Doppel-Blitzhalter (ca. 8 €, Amazon) – Kaltschuh an den Enden oder 1/4"-Kaltschuh-Adapter (je ca. 3–6 €) nötig | ca. 8 € + Adapter | beobachten, noch nicht gekauft |

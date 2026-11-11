@@ -4,7 +4,7 @@
 | Hersteller/Modell | Bajonett | Sensor | Baujahr/Auslösungen | Zustand | Foto | Behalten? |
 |---|---|---|---|---|---|---|
 | Nikon D7500 | Nikon F (mit internem AF-Motor) | DX/APS-C, 20,9 MP | _offen_ | _offen_ | | ja |
-| Samsung WB350F Smart Camera (braun) | fest verbaut, 21× Zoom (ca. 24–504 mm KB laut Wissen) | 1/2,3"-Sensor, ca. 16 MP, WLAN, Touchdisplay | Auslösungen n. a. | funktioniert, nur ein Akku | | Verkauf oder Reisekamera (offen) |
+| Samsung WB350F Smart Camera (braun) | fest verbaut, 21× Zoom (ca. 24–504 mm KB laut Wissen) | 1/2,3"-Sensor, ca. 16 MP, WLAN, Touchdisplay | Auslösungen n. a. | funktioniert | | verkauft (Nov 2026, 65 € inkl. Zweitakku, Tasche, Kabel) |
 | Nikon D90 (aus Bundle, 17./20.10.2026) | Nikon F (mit internem AF-Motor) | DX/APS-C, 12,3 MP | Auslösungen _offen_ | angekommen 23.10.2026; nur 1 Akku, Objektivdeckel fehlt; Firmware A 1.00 / B 1.00 / L 1.000 (Original, Update prüfen); Test von VR, Klackern, AF, Linsen: Ergebnis offen; Ladegerät (ohne Kabel), Tragetasche | | Zweitkamera oder Verkauf (offen) |
 | Revueflex 3000 SM (Analog-SLR, Film) | vermutlich M42 (Schraubgewinde), bitte prüfen | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
 | Chinon CE-3 Memotron (Analog-SLR, Film), mit Chinon Power Winder | M42 (laut Wissen) | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
@@ -34,6 +34,6 @@
 | Metz Mecablitz 30 BCT-4 (Blitz, alt) | Schuh/Blitz, Spannung unbekannt | **vor Nutzung an der D7500 Triggerspannung messen** | ?  |
 | Bestellt bei Amazon (18./19.10.2026, Eingang offen): K&F CPL-Polfilter 67 mm; MC-DC2-Fernauslöser (Nachbau, ca. 6 €); THQAE Doppel-Kaltschuh-Schiene 20 cm; Mini-HDMI-Kabel; USB-C-auf-Micro-USB-Kabel | Zubehör, Kompatibilität mit D7500 beim Auspacken prüfen | _offen_ | ja |
 | Einbeinstativ (gekauft, Modell/Quelle offen, ca. Okt 2026) | für 70-300 / Vögel, 1/4"-Gewinde | Eingang/Test offen | ja |
-| Reserve-Akkus gekauft: für Nikon D90 (EN-EL3e) und Samsung WB350F (SLB-10A) | Reserve | Eingang/Test offen | ja |
+| Reserve-Akku für Nikon D90 (EN-EL3e); der Samsung-Akku (SLB-10A) ging mit der WB350F weg | Reserve | Eingang/Test offen | ja |
 | Victiv 182 cm Alu-Stativ (orange, gekauft 25.02.2025, ca. 38 €) | 55–182 cm, ca. 1,3 kg, 3-Wege-Kopf (laut Anbieter bis ca. 6 kg), Schnellwechselplatte, Flip-Locks; schwach bei voller Höhe und Wind (Plastikteile, Kurbel) | gut für 18–140/Tamron 60; mit 70-300 niedrig/mittlere Höhe | ja |
 | Anker Powerbank 26k | ca. 26.800 mAh, ca. 0,5 kg | _offen_ | ja |

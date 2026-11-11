@@ -4,7 +4,7 @@
 | Hersteller/Modell | Bajonett | Sensor | Baujahr/Auslösungen | Zustand | Foto | Behalten? |
 |---|---|---|---|---|---|---|
 | Nikon D7500 | Nikon F (mit internem AF-Motor) | DX/APS-C, 20,9 MP | _offen_ | _offen_ | | ja |
-| Samsung WB350F Smart Camera (braun) | fest verbaut, 21× Zoom (ca. 24–504 mm KB laut Wissen) | 1/2,3"-Sensor, ca. 16 MP, WLAN, Touchdisplay | Auslösungen n. a. | funktioniert | | verkauft (Nov 2026, 65 € inkl. Zweitakku, Tasche, Kabel) |
+| Samsung WB350F Smart Camera (braun) | fest verbaut, 21× Zoom (ca. 24–504 mm KB laut Wissen) | 1/2,3"-Sensor, ca. 16 MP, WLAN, Touchdisplay | Auslösungen n. a. | funktioniert | | verkauft (Nov 2026, an Freundin, 65 € inkl. Zweitakku, Tasche, Kabel) |
 | Nikon D90 (aus Bundle, 17./20.10.2026) | Nikon F (mit internem AF-Motor) | DX/APS-C, 12,3 MP | Auslösungen _offen_ | angekommen 23.10.2026; nur 1 Akku, Objektivdeckel fehlt; Firmware A 1.00 / B 1.00 / L 1.000 (Original, Update prüfen); Test von VR, Klackern, AF, Linsen: Ergebnis offen; Ladegerät (ohne Kabel), Tragetasche | | Zweitkamera oder Verkauf (offen) |
 | Revueflex 3000 SM (Analog-SLR, Film) | vermutlich M42 (Schraubgewinde), bitte prüfen | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |
 | Chinon CE-3 Memotron (Analog-SLR, Film), mit Chinon Power Winder | M42 (laut Wissen) | Kleinbildfilm 35 mm | _offen_ | _offen_ | | _offen_ |

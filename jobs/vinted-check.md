@@ -6,7 +6,7 @@ Modell: haiku/sonnet-klein. Ziel: neue Vinted-Angebote prüfen und kurz bewerten
 1. `python3 -I jobs/vinted_fetch.py` ausführen: ruft die Suchen aus `jobs/suchen.txt` ab (nur Seite 1, max. 20 Treffer, Kategorie Objektive, Titelfilter). Bei 403 wiederholt das Skript selbst; Vinted braucht einen Browser-User-Agent, die Domain `www.vinted.de` muss freigegeben sein. Priorität: erst Tele, dann Makro.
 2. Pro Treffer nur extrahieren: Titel, Preis, Zustand, Link. Keine Beschreibungen/Bilder laden, außer Treffer ist Kandidat.
 3. Gegen `jobs/bewertung.md` bewerten.
-4. Ergebnis anhängen an `jobs/ergebnisse/YYYY-MM-DD.md`, nur Treffer mit Urteil ✅ oder 🤔. Bereits gemeldete Links (in früheren Ergebnissen) überspringen.
+4. Ergebnis anhängen an `jobs/ergebnisse/YYYY-MM-DD.md`, nur Treffer mit Urteil ✅ (Schnäppchenmodus, siehe `bewertung.md`; 🤔 weglassen). Bereits gemeldete Links (in früheren Ergebnissen) überspringen.
 5. Jeden ✅-Treffer mit ⭐ am Zeilenanfang markieren (`⭐ ✅ | ...`) und in `SUCHLISTE.md` unter „Top-Funde offen“ eintragen (Modell, Preis, Link, Datum). Vorhandene Einträge beim Lauf prüfen: Link nicht mehr abrufbar/verkauft → streichen. Der Nutzer tippt auf „Merken“ direkt in Vinted (kein Login/Zugriff auf sein Konto).
 6. Commit + Push auf den Arbeitsbranch.
 

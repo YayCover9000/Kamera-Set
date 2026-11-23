@@ -7,7 +7,8 @@ Modell: haiku/sonnet-klein. Ziel: neue Vinted-Angebote prüfen und kurz bewerten
 2. Pro Treffer nur extrahieren: Titel, Preis, Zustand, Link. Keine Beschreibungen/Bilder laden, außer Treffer ist Kandidat.
 3. Gegen `jobs/bewertung.md` bewerten.
 4. Ergebnis anhängen an `jobs/ergebnisse/YYYY-MM-DD.md`, nur Treffer mit Urteil ✅ oder 🤔. Bereits gemeldete Links (in früheren Ergebnissen) überspringen.
-5. Commit + Push auf den Arbeitsbranch.
+5. Jeden ✅-Treffer mit ⭐ am Zeilenanfang markieren (`⭐ ✅ | ...`) und in `SUCHLISTE.md` unter „Top-Funde offen“ eintragen (Modell, Preis, Link, Datum). Vorhandene Einträge beim Lauf prüfen: Link nicht mehr abrufbar/verkauft → streichen. Der Nutzer tippt auf „Merken“ direkt in Vinted (kein Login/Zugriff auf sein Konto).
+6. Commit + Push auf den Arbeitsbranch.
 
 ## Ausgabeformat (je Treffer, eine Zeile)
-`✅|🤔 | Modell | Preis | Zustand | Link | 1 Satz Begründung`
+`[⭐ bei ✅] ✅|🤔 | Modell | Preis | Zustand | Link | 1 Satz Begründung`

@@ -34,6 +34,14 @@ Der Nutzer will nach dem Tele erstmal nichts mehr kaufen. Die Liste ist eine **B
 | 2 | Reserve-Akku EN-EL15 (Fernauslöser MC-DC2 bestellt 19.10.) | passend zur D7500 (MC-DC2-Anschluss, Akku EN-EL15a/b/c) | 12 / 20 € bzw. 30 / 40 € | Suche aktiv (Vinted) |
 | 1 | Stativ / Fernauslöser | Victiv 182 cm vorhanden (ca. 1,3 kg, bei voller Höhe wackelig); ggf. stabileres Reisestativ oder Einbeinstativ für 70-300, Fernauslöser | – | noch keine Suche; erst Filter, dann Stativ-Frage |
 
+## Top-Funde offen (⭐ aus dem Vinted-Check, Stand 23.11.2026)
+Preise = Artikelpreis ohne Käuferschutz; Verfügbarkeit vor Kauf prüfen. Vom täglichen Check gepflegt.
+
+| Modell | Preis | Link | gefunden |
+|---|---|---|---|
+| Nikon AF-P DX 10-20 mm f/4.5-5.6G VR (OVP, Tasche, Blende) | 130 € | https://www.vinted.de/items/10924383202-nikon-af-p-dx-10-20-mm-f45-56-g-vr | 23.11. |
+| Sigma 10-20 mm f/4-5.6 EX DC HSM (inkl. UV-Filter) | 80 € | https://www.vinted.de/items/10734889452-obiettivo-sigma-10-20-hsm-nikon | 10./11.11., ggf. schon weg |
+
 ## Bereits gekauft / vorhanden
 D7500, AF-S DX 18–140 VR, Tamron SP 60 f/2 Macro (150 €, Eingang offen), D90 + AF-S 70-300 VR (250 €, Eingang offen), Zoom H5, LED-Licht, Blitz, Anker-Powerbank, diverse Analog-Kameras/-Objektive (siehe INVENTAR.md).
 

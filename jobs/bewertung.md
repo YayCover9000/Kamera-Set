@@ -11,7 +11,8 @@ Richtpreise (Gebraucht, grob, vor Nutzung mit aktuellen Daten prüfen):
 | Nikon 105 VR | 230 € | 280 € |
 | Nikon DX 40 Micro | 80 € | 100 € |
 | Nikon AF-S 50 mm f/1.8G | 70 € | 90 € |
-| Sigma 10–20 (f/4–5.6 oder f/3.5, Nikon F) | 90 € | 110 € |
+| Sigma 10–20 f/4–5.6 DC HSM (Nikon F) | 90 € | 110 € |
+| Sigma 10–20 f/3.5 EX DC HSM (Nikon F, für Sterne/Astro besser) | 110 € | 130 € |
 | Nikon AF-P DX 10–20 VR | 100 € | 130 € |
 | Tokina 11–16 f/2.8 (Nikon F) | 120 € | 150 € |
 | Tamron 10–24 (Nikon F) | 90 € | 110 € |
@@ -26,6 +27,7 @@ Abzug: kein Foto der Modellbezeichnung, kein Funktionsbeweis AF/VR, kein Zubehö
 Urteil: ✅ kaufen/anfragen · 🤔 verhandeln oder Fragen klären · ❌ nicht listen.
 Bei Dummy-Akkus: kein No-Name ohne Spannungsregelung; PD-Powerbank nötig (9/12 V); Garantieverlust möglich. EP-5B und EH-5b nur im Set sinnvoll (Akku-Attrappe + Netzteil). Bei Cages prüfen: passt zur D7500 (Akkufach unten, Anschlüsse seitlich frei), Kaltschuh vorhanden, kein loses Gewinde. Weitwinkel, Filter und Cage: Preise sind grobe Schätzungen (nicht geprüft). Bei Filtern Gewinde (62/67 mm) und "zirkular" beachten; Kratzer/Pilz ausschließen.
 Richtpreise sind Schätzungen, keine geprüften Marktdaten.
+Astro-Wunsch (Sterne/Milchstraße): lichtstarkes Weitwinkel bevorzugen (Sigma 10–20 f/3.5, Tokina 11–16 f/2.8); f/4–5.6 nur als günstiger Einstieg werten. Hinweis auf dem Objektiv prüfen: HSM (Sigma) bzw. an der D7500 reicht Gehäusemotor (Tokina). Filtergewinde: Sigma f/4–5.6 = 77 mm, f/3.5 = 82 mm, Tokina 11–16 = 77 mm.
 
 **Schnäppchenmodus (seit 23.11.2026, Wunsch des Nutzers):** Grenzen oben bewusst ca. 30–40 % gesenkt, damit nur echte Schnäppchen auftauchen. Der Nutzer braucht aktuell nichts zwingend; es soll nur gekauft werden, was deutlich unter Marktpreis liegt. Im Tagesergebnis nur ✅ melden, 🤔 weglassen (außer Preis liegt mit bedeutendem Nachlass unter der 🤔-Grenze).
 
